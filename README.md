@@ -1,2 +1,2 @@
 # SSRC
-Smal Scale Robotics Cluster
+Small Scale Robotics Cluster
