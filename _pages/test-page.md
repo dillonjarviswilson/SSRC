@@ -4,7 +4,7 @@ post_title: 'Build a SSRC Guide: Hardware'
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://localhost:8000/test-page/
+permalink: http://localhost:8000/guides/test-page/
 published: true
 post_date: 2018-07-16 11:26:54
 ---
