@@ -2,7 +2,12 @@
 ID: 169
 post_title: Cryptography Activity
 author: admin
-post_excerpt: ""
+post_excerpt: >
+  This activity focuses on exploring some
+  of the oldest cryptographic methods
+  which can be used to secure information.
+  We also look at the vulnerabilities in
+  their designs.
 layout: post
 permalink: >
   http://localhost:8000/cryptography-activity/
